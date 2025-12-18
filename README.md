@@ -133,12 +133,12 @@ The Blood Donor Management System is a life-saving platform designed to connect 
 
 | Landing Page                                                                                       | User Dashboard                                                                                           |
 | -------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- |
-| ![](./screentshots//Homepage.png)                                                                  | ![](./screentshots/userDashboard.png.png)                                                                |
+| ![](./Project/screentshots/Homepage.png)                                                           | ![](./Project/screentshots/userDashboard.png.png)                                                        |
 | _A platform that connects donors with those in need, making blood donation simple and life-saving_ | _A personalized dashboard where users can view and manage their blood requests and donation activities._ |
 
 | Make Request                                                                        | Become a Donor                                                                               |
 | ----------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- |
-| ![](./screentshots//makeRequest.png.png)                                            | ![](./screentshots//becomeDonor.png)                                                         |
+| ![](./Project/screentshots/makeRequest.png.png)                                     | ![](./Project/screentshots/becomeDonor.png)                                                  |
 | _A page where users can request blood by providing patient and requirement details_ | _Enables users to enroll as blood donors and make themselves available for future requests._ |
 
 ## 🚀 Installation
