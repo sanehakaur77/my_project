@@ -127,7 +127,7 @@ The Blood Donor Management System is a life-saving platform designed to connect 
 
 ## 🖼️ Screenshots
 
-## 🚀 CityCare – Application Screenshots
+## 🚀 BloodRoute – Application Screenshots
 
 ### 🖥️ Key Interfaces Overview
 
@@ -152,8 +152,6 @@ The Blood Donor Management System is a life-saving platform designed to connect 
 (Add env setup)
 
 ---
-
-## 📂 Project Structure
 
 ## 📁 Project Structure
 
