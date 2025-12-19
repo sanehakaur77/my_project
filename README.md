@@ -124,7 +124,7 @@ The Blood Donor Management System is a life-saving platform designed to connect 
 
 ---
 
-# 🖼️ Screenshots
+# 🖼️ screenshots
 
 ## 🚀 BloodRoute – Application Screenshots
 
