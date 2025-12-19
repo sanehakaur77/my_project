@@ -32,12 +32,11 @@ _Donate blood. Save lives._
 - ✨ [Key Features](#-key-features)
 - 🛠️ [Tech Stack](#-tech-stack)
 - 🖼️ [Screenshots](#-screenshots)
-- 🚀 [Installation](#-installation)
+- 🚀 [Installation](#-installation--setup)
 - ⚙️ [Environment Setup](#-environment-setup)
-- 📂 [Project Structure](#-project-structure)
+- 📁 [Project Structure](#-project-structure)
 - 📄 [License](#-license)
-- 📞 [Contact](#-contact)
-- 🙏 [Acknowledgments](#-acknowledgments)
+- 🙏 [Acknowledgments](#-acknowledgements)
 
 ---
 
@@ -98,7 +97,7 @@ The Blood Donor Management System is a life-saving platform designed to connect 
 
 ---
 
-## 🛠️ Tech Stack
+# tech-stack
 
 ## 🎨 Frontend Arsenal
 
@@ -152,8 +151,6 @@ The Blood Donor Management System is a life-saving platform designed to connect 
 | --------------------------------------- | ------------------------------------------- |
 | ![](./Project/screentshots/Donors.png)  | ![](./Project/screentshots/suggestions.png) |
 | View, edit, and manage registered users | Manage donor records and availability       |
-
-## 🚀 Installation
 
 ## 🚀 Installation & Setup
 
