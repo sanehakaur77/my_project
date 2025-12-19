@@ -28,15 +28,15 @@ _Donate blood. Save lives._
 </div>
 ## ❓ Table of Contents
 
-- 🌟 [Overview](#overview)
-- ✨ [Key Features](#key-features)
-- 🛠️ [Tech Stack](#tech-stack)
+- 🌟 [Overview](#-overview)
+- ✨ [Key Features](#-key-features)
+- 🛠️ [Tech-Stack](#-tech-stack)
 - 🖼️ [Screenshots](#screenshots)
-- 🚀 [Installation](#installation--setup)
-- ⚙️ [Environment Setup](#environment-setup)
-- 📁 [Project Structure](#project-structure)
-- 📄 [License](#license)
-- 🙏 [Acknowledgments](#acknowledgements)
+- 🚀 [Installation](#-installation--setup)
+- ⚙️ [Environment Setup](#-environment-setup)
+- 📁 [Project Structure](#-project-structure)
+- 📄 [License](#-license)
+- 🙏 [Acknowledgments](#-acknowledgements)
 
 ---
 
@@ -124,7 +124,7 @@ The Blood Donor Management System is a life-saving platform designed to connect 
 
 ---
 
-# screenshots
+# 🖼️ Screenshots
 
 ## 🚀 BloodRoute – Application Screenshots
 
