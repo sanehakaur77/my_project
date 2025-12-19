@@ -141,11 +141,83 @@ The Blood Donor Management System is a life-saving platform designed to connect 
 | ![](./Project/screentshots/makeRequest.png.png)                                     | ![](./Project/screentshots/becomeDonor.png)                                                  |
 | _A page where users can request blood by providing patient and requirement details_ | _Enables users to enroll as blood donors and make themselves available for future requests._ |
 
+## 📸 Admin Interface Screenshots
+
+| **Admin Dashboard**                            | **Make Request of Blood**                       |
+| ---------------------------------------------- | ----------------------------------------------- |
+| ![](./Project/screentshots/AdminDashboard.png) | ![](./Project/screentshots/makeRequest.png.png) |
+| Secure admin authentication page               | Overview of system statistics and controls      |
+
+| **Manage Donors**                       | **Suggestions**                             |
+| --------------------------------------- | ------------------------------------------- |
+| ![](./Project/screentshots/Donors.png)  | ![](./Project/screentshots/suggestions.png) |
+| View, edit, and manage registered users | Manage donor records and availability       |
+
 ## 🚀 Installation
 
-(Add installation steps)
+## 🚀 Installation & Setup
 
----
+### Step 1️⃣ : Clone the Repository
+
+```bash
+git clone https://github.com/your-username/your-repository-name.git
+cd your-repository-name
+```
+
+## Step 2️⃣ : Backend Setup
+
+```bash
+# Navigate to backend directory
+cd backend
+
+# Install dependencies
+npm install
+
+# Create environment file
+cp .env.example .env
+
+# Edit .env with your credentials (see Environment Setup section)
+```
+
+Step 3️⃣ : Frontend Setup
+
+```bash
+# Navigate to frontend directory (from project root)
+cd ../frontend
+
+# Install dependencies
+npm install
+
+# Create environment file
+cp .env.example .env.local
+
+# Edit .env.local with your credentials (see Environment Setup section)
+```
+
+```bash cd backend
+npm run dev
+# Server runs on http://localhost:5000
+```
+
+Step 4️⃣ : Start the Application
+
+# Open two terminal windows:
+
+# Terminal 1 - Backend Server
+
+```bash
+cd backend
+npm run dev
+# Server runs on http://localhost:5000
+```
+
+## Terminal 2 - Frontend Development Server
+
+```bash
+cd frontend
+npm run dev
+# Application opens on http://localhost:5173
+```
 
 ## ⚙️ Environment Setup
 
@@ -155,7 +227,7 @@ The Blood Donor Management System is a life-saving platform designed to connect 
 
 ## 📁 Project Structure
 
-```text
+```bash
 📦 Project Root
 │
 ├── backend/                         # Node.js + Express backend
