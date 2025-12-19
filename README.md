@@ -12,7 +12,7 @@ _Donate blood. Save lives._
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech-Stack
 
 ![React](https://img.shields.io/badge/React-19.1.1-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-18+-339933?style=for-the-badge&logo=node.js&logoColor=white)
