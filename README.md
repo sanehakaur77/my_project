@@ -221,7 +221,39 @@ npm run dev
 
 ## ⚙️ Environment Setup
 
-(Add env setup)
+### Environment Variables
+
+This project requires several environment variables for configuration. **Do not share your actual credentials publicly.** Use the `.env` file in your project root to set these values:
+
+```env
+# ==========================
+# Cloudinary Configuration
+# ==========================
+CLOUD_NAME="Your Cloudinary cloud name here"
+CLOUD_KEY="Your Cloudinary API key here"
+CLOUD_SECRET="Your Cloudinary API secret here"
+
+# ==========================
+# JWT Configuration
+# ==========================
+JWT_SECRET="Your JWT secret key here"
+
+# ==========================
+# Server Configuration
+# ==========================
+PORT=8080                 # Port number for the server
+
+# ==========================
+# MongoDB Configuration
+# ==========================
+mongo_URL="Your MongoDB connection string here"
+
+# ==========================
+# Application User Credentials
+# ==========================
+user_email="Your user email here"
+user_pass="Your password here"
+```
 
 ---
 
