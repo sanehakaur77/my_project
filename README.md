@@ -393,10 +393,6 @@ user_pass="Your password here"
 
 ---
 
-## 📞 Contact
-
----
-
 ## 👥 Team BloodRoute
 
 **Rayat Bahra Professional University**  
