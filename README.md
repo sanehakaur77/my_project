@@ -31,7 +31,7 @@ _Donate blood. Save lives._
 - 🌟 [Overview](#-overview)
 - ✨ [Key Features](#-key-features)
 - 🛠️ [Tech-Stack](#-tech-stack)
-- 🖼️ [Screenshots](#-screenshots)
+- 🖼️ [Screenshots](#screenshots)
 - 🚀 [Installation](#-installation--setup)
 - ⚙️ [Environment Setup](#-environment-setup)
 - 📁 [Project Structure](#-project-structure)
