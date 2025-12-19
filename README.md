@@ -30,7 +30,7 @@ _Donate blood. Save lives._
 
 - 🌟 [Overview](#-overview)
 - ✨ [Key Features](#-key-features)
-- 🛠️ [Tech-Stack](#tech-stack)
+- 🛠️ [Tech-Stack](#-tech-stack)
 - 🖼️ [Screenshots](#screenshots)
 - 🚀 [Installation](#-installation--setup)
 - ⚙️ [Environment Setup](#-environment-setup)
@@ -97,7 +97,7 @@ The Blood Donor Management System is a life-saving platform designed to connect 
 
 ---
 
-# Tech-Stack
+# 🛠️ Tech Stack
 
 ## 🎨 Frontend Arsenal
 
