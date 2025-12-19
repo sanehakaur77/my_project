@@ -97,7 +97,7 @@ The Blood Donor Management System is a life-saving platform designed to connect 
 
 ---
 
-# 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 ## 🎨 Frontend Arsenal
 
@@ -124,7 +124,7 @@ The Blood Donor Management System is a life-saving platform designed to connect 
 
 ---
 
-# 🖼️ Screenshots
+## 🖼️ Screenshots
 
 ## 🚀 BloodRoute – Application Screenshots
 
