@@ -203,7 +203,7 @@ Step 4️⃣ : Start the Application
 
 # Open two terminal windows:
 
-# Terminal 1 - Backend Server
+## Terminal 1 - Backend Server
 
 ```bash
 cd backend

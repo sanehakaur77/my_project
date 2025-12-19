@@ -3,6 +3,8 @@ const router = express.Router();
 const jwt = require("jsonwebtoken");
 const bcrypt = require("bcrypt");
 const User = require("../models/Users");
+const dotenv = require("dotenv");
+dotenv.config();
 
 const adminLogin = async (req, res) => {
   const { email, password } = req.body;
@@ -28,7 +30,7 @@ const adminLogin = async (req, res) => {
     }
     const token = jwt.sign(
       { id: user._id, role: user.role },
-      "SECRET123", // change later from env
+      process.env.JWT_SECRET, // change later from env
       { expiresIn: "7d" }
     );
 
