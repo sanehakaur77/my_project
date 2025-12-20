@@ -142,15 +142,15 @@ The Blood Donor Management System is a life-saving platform designed to connect 
 
 ## 📸 Admin Interface Screenshots
 
-| **Admin Dashboard**                           | **Make Blood Request**                        |
-| --------------------------------------------- | --------------------------------------------- |
-| ![](./Project/screenshots/AdminDashboard.png) | ![](./Project/screenshots/makeRequest.png)    |
-| Overview of system statistics and controls    | Request blood by selecting blood group & city |
+| **Admin Dashboard**                            | **Make Blood Request**                        |
+| ---------------------------------------------- | --------------------------------------------- |
+| ![](./Project/screentshots/AdminDashboard.png) | ![](./Project/screentshots/Request.png)       |
+| Overview of system statistics and controls     | Request blood by selecting blood group & city |
 
-| **Manage Donors**                        | **Suggestions**                            |
-| ---------------------------------------- | ------------------------------------------ |
-| ![](./Project/screenshots/Donors.png)    | ![](./Project/screenshots/suggestions.png) |
-| View, edit, and manage registered donors | View system-generated donor suggestions    |
+| **Manage Donors**                        | **Suggestions**                             |
+| ---------------------------------------- | ------------------------------------------- |
+| ![](./Project/screentshots/Donors.png)   | ![](./Project/screentshots/suggestions.png) |
+| View, edit, and manage registered donors | View system-generated donor suggestions     |
 
 ## 🚀 Installation & Setup
 
