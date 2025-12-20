@@ -35,7 +35,7 @@ _Donate blood. Save lives._
 - 🚀 [Installation](#-installation--setup)
 - ⚙️ [Environment Setup](#-environment-setup)
 - 📁 [Project Structure](#-project-structure)
-- 📄 [Purpose](#-purpose)
+- 📄 [Purpose](#purpose)
 - 🙏 [Acknowledgments](#-acknowledgements)
 
 ---
@@ -254,7 +254,7 @@ user_pass="Your password here"
 
 ---
 
-# 📄Purpose
+# Purpose
 
 The **Blood Donor Management System** is designed to efficiently connect **blood donors**, **patients**, and **administrators** through a centralized digital platform. Its primary purpose is to simplify the process of **requesting, managing, and donating blood** during emergencies and routine medical needs.
 
