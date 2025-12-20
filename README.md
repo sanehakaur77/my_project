@@ -421,8 +421,8 @@ _Blood Donor Management System_
 
 Have questions or suggestions? We'd love to hear from you!
 
-- 📧 **Email:** [Contact Us](mailto:your-email@example.com)
-- 🐞 **Found a Bug?** [Report it here](https://github.com/your-repo-link/issues)
+- 📧 **Email:** [Contact Us](snehaswali9988@gmail.com)
+- 🐞 **Found a Bug?** [Report it here](https://github.com/sanehakaur77)
 - 💡 **Have an Idea?** [Start a discussion](https://github.com/your-repo-link/discussions)
 
 ---
