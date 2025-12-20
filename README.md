@@ -35,7 +35,7 @@ _Donate blood. Save lives._
 - 🚀 [Installation](#-installation--setup)
 - ⚙️ [Environment Setup](#-environment-setup)
 - 📁 [Project Structure](#-project-structure)
-- 📄 [License](#-license)
+- 📄 [Purpose](#-purpose)
 - 🙏 [Acknowledgments](#-acknowledgements)
 
 ---
@@ -142,15 +142,15 @@ The Blood Donor Management System is a life-saving platform designed to connect 
 
 ## 📸 Admin Interface Screenshots
 
-| **Admin Dashboard**                            | **Make Request of Blood**                       |
-| ---------------------------------------------- | ----------------------------------------------- |
-| ![](./Project/screentshots/AdminDashboard.png) | ![](./Project/screentshots/makeRequest.png.png) |
-| Secure admin authentication page               | Overview of system statistics and controls      |
+| **Admin Dashboard**                           | **Make Blood Request**                        |
+| --------------------------------------------- | --------------------------------------------- |
+| ![](./Project/screenshots/AdminDashboard.png) | ![](./Project/screenshots/makeRequest.png)    |
+| Overview of system statistics and controls    | Request blood by selecting blood group & city |
 
-| **Manage Donors**                       | **Suggestions**                             |
-| --------------------------------------- | ------------------------------------------- |
-| ![](./Project/screentshots/Donors.png)  | ![](./Project/screentshots/suggestions.png) |
-| View, edit, and manage registered users | Manage donor records and availability       |
+| **Manage Donors**                        | **Suggestions**                            |
+| ---------------------------------------- | ------------------------------------------ |
+| ![](./Project/screenshots/Donors.png)    | ![](./Project/screenshots/suggestions.png) |
+| View, edit, and manage registered donors | View system-generated donor suggestions    |
 
 ## 🚀 Installation & Setup
 
@@ -251,6 +251,22 @@ mongo_URL="Your MongoDB connection string here"
 user_email="Your user email here"
 user_pass="Your password here"
 ```
+
+---
+
+## 📄Purpose
+
+The **Blood Donor Management System** is designed to efficiently connect **blood donors**, **patients**, and **administrators** through a centralized digital platform. Its primary purpose is to simplify the process of **requesting, managing, and donating blood** during emergencies and routine medical needs.
+
+### Key Objectives
+
+- 🩸 Enable quick and easy **blood requests** based on blood group and location
+- 👥 Maintain a secure and organized **donor database**
+- ⚡ Reduce response time during **medical emergencies**
+- 🛠️ Provide administrators with tools to **manage donors and requests** efficiently
+- 📊 Offer real-time insights and suggestions to improve donor availability
+
+By digitizing the blood donation process, the system helps **save lives**, improve coordination, and ensure timely access to safe blood.
 
 ---
 
@@ -381,12 +397,6 @@ user_pass="Your password here"
 │
 └── README.md                       # Project documentation
 ```
-
----
-
-## 📄 License
-
-(Add license info)
 
 ---
 
